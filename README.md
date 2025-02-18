@@ -3,11 +3,17 @@ This C# program analyzes a text string and counts the frequency of each word. It
 ![WordFrequencyAnalyzer-ezgif com-optimize](https://github.com/user-attachments/assets/d5a4f6b3-00d0-4450-bf1a-cbf77b08b676)
 
 🔹 How it works:
+
 1️⃣ Input: The program prompts you to enter a string of text.
+
 2️⃣ Processing:
+
     It splits the text into words using spaces and punctuation as delimiters.
+
     It converts all words to lowercase for consistent counting.
+
 3️⃣ Counting: A dictionary is used to count how many times each word appears.
+
 4️⃣ Output: The program displays the frequency of each word on the console.
 
 ```
