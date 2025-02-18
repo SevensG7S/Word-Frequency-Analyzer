@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Word-Frequency-Analyzer\\Word Frequency Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE75CD79-B37B-49BA-AB0A-0467EAEC3727}|Word Frequency Analyzer\\Word Frequency Analyzer.csproj|d:\\github\\word-frequency-analyzer\\word frequency analyzer\\word frequency analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE75CD79-B37B-49BA-AB0A-0467EAEC3727}|Word Frequency Analyzer\\Word Frequency Analyzer.csproj|solutionrelative:word frequency analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Word-Frequency-Analyzer\\Word Frequency Analyzer\\Word Frequency Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Word Frequency Analyzer\\Program.cs",
+              "ToolTip": "D:\\Github\\Word-Frequency-Analyzer\\Word Frequency Analyzer\\Word Frequency Analyzer\\Program.cs",
+              "RelativeToolTip": "Word Frequency Analyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:39:09.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

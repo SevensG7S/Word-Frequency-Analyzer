@@ -1,0 +1,15 @@
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\bin\Debug\net9.0\Word Frequency Analyzer.exe
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\bin\Debug\net9.0\Word Frequency Analyzer.deps.json
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\bin\Debug\net9.0\Word Frequency Analyzer.runtimeconfig.json
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\bin\Debug\net9.0\Word Frequency Analyzer.dll
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\bin\Debug\net9.0\Word Frequency Analyzer.pdb
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.AssemblyInfoInputs.cache
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.AssemblyInfo.cs
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.csproj.CoreCompileInputs.cache
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.sourcelink.json
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.dll
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\refint\Word Frequency Analyzer.dll
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.pdb
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\Word Frequency Analyzer.genruntimeconfig.cache
+D:\Github\Word-Frequency-Analyzer\Word Frequency Analyzer\Word Frequency Analyzer\obj\Debug\net9.0\ref\Word Frequency Analyzer.dll
